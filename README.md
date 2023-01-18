@@ -39,4 +39,5 @@ Advanced Plan: For customers aged 20-50 with vehicle age in between 0-2 years. F
 Advanced Plus Plan: For customers aged 20-50 with vehicle age in between 2-4 years. Fix the premium value to 2000 dollars and categorize them as highly risky customers
 
 Hence, we would add two additional rows to the data set to indicate the Insurance Plan and the Customer Category. Also, change the annual premium value according to the customer category and insurance plan. The metrics would look as below:
+
 ![image](https://user-images.githubusercontent.com/100491016/213258259-d48144f4-140e-4bbe-9a57-7526266ab784.png)
