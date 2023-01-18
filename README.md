@@ -1,4 +1,4 @@
-# python exploratory data analysis & visualization Project
+# Python Exploratory Data Analysis & Visualization Project
 
 ## Introduction
 
